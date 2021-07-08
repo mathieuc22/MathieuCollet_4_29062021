@@ -716,6 +716,19 @@ h3 {
     color: #333333!important;
 }
 
+.uppercase {
+    text-transform: uppercase;
+}
+
+blockquote {
+    font-style: italic;
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+    border-left: none;
+}
+
 .med-width-whitespace {
     max-width: 800px;
     margin: auto auto auto auto;
